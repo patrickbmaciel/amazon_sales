@@ -1,0 +1,61 @@
+group,term,mean_tfidf
+rating_alto,good,0.2255216289002665
+rating_alto,product,0.15706202315917808
+rating_alto,cable,0.10838151101040634
+rating_alto,quality,0.08715675224735532
+rating_alto,charging,0.07430630912899554
+rating_alto,use,0.07252304831421934
+rating_alto,easy,0.06901445231147958
+rating_alto,usb,0.06654877009937012
+rating_alto,nice,0.06542362068478741
+rating_alto,good product,0.06333787193035455
+rating_alto,price,0.054591294910204986
+rating_alto,phone,0.05252714948538272
+rating_alto,tv,0.051729679393894945
+rating_alto,best,0.049823826941926615
+rating_alto,battery,0.04693507670143291
+rating_alto,fast,0.046653209659072575
+rating_alto,speed,0.04642872271268495
+rating_alto,like,0.04625949704438538
+rating_alto,money,0.04522557081200776
+rating_alto,product good,0.04448283153796144
+rating_alto,water,0.043600116767939734
+rating_alto,value,0.04265339557514916
+rating_alto,power,0.04146781223439817
+rating_alto,watch,0.041103690765135543
+rating_alto,great,0.041072751656418986
+rating_alto,sound,0.04101085585639102
+rating_alto,warranty,0.04020139898743253
+rating_alto,time,0.0400872311840195
+rating_alto,using,0.03942059215625582
+rating_alto,camera,0.03871179112972117
+rating_baixo,good,0.2137570072192268
+rating_baixo,product,0.17081710204977918
+rating_baixo,quality,0.08744437550408918
+rating_baixo,use,0.08556315645281105
+rating_baixo,water,0.07494370248320437
+rating_baixo,remote,0.0682207949610214
+rating_baixo,nice,0.06487160656608247
+rating_baixo,easy,0.06132712669857099
+rating_baixo,good product,0.06064016851761177
+rating_baixo,working,0.057971104168565046
+rating_baixo,price,0.05416479248668995
+rating_baixo,sound,0.0540473734700293
+rating_baixo,cable,0.05186083807425567
+rating_baixo,power,0.05152307340141097
+rating_baixo,usb,0.051169461987728856
+rating_baixo,ok,0.05092006629604127
+rating_baixo,battery,0.049759555064170465
+rating_baixo,money,0.049549167173129884
+rating_baixo,charging,0.049448051098835384
+rating_baixo,watch,0.045990647123616196
+rating_baixo,heating,0.045078703142712576
+rating_baixo,best,0.04216949949780455
+rating_baixo,like,0.04163166455688764
+rating_baixo,time,0.04117578012214027
+rating_baixo,tv,0.041009793590162165
+rating_baixo,value,0.04006364690934194
+rating_baixo,works,0.03989014341426903
+rating_baixo,buy,0.03986567330387379
+rating_baixo,product good,0.0397445916345989
+rating_baixo,value money,0.03926096311510494

@@ -20,12 +20,6 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 
-# Outputs
-outputs/figures/*
-!outputs/figures/.gitkeep
-outputs/tables/*
-!outputs/tables/.gitkeep
-
 # Local notebooks/checkpoints
 .ipynb_checkpoints/
 
